@@ -1,0 +1,1 @@
+ This is a temporary file to chech whether this app works for changing the file name correctly or not.
